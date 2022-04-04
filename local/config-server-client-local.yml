@@ -1,6 +1,6 @@
 last:
     name: Nimbakar
-    location: from==master==local
+    location: from==demo==local
     
 my:
   msg: local-repo
