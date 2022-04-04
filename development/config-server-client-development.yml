@@ -1,6 +1,6 @@
 last:
     name: Nimbakar
-    location: from==master==development
+    location: from==feature/demo2==development
     
 my:
   msg: development-repo

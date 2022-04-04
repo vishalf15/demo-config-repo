@@ -1,6 +1,6 @@
 last:
     name: Nimbakar
-    location: from==master==prod
+    location: from==feature/demo2==prod
     
 my:
   msg: prod-repo

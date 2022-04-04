@@ -1,6 +1,6 @@
 last:
     name: Nimbakar
-    location: from==master==UAT
+    location: from==feature/demo2==UAT
     
 my:
   msg: uat-repo
